@@ -7,7 +7,7 @@ int main(){
     scanf("%d", &n1);
     printf("Введите второе целое число: ");
     scanf("%d", &n2);
-    int result = n1 + n2;
+    int result = n1 - n2;
     printf("Результат: %d\n", result);
     return 0;
 }
