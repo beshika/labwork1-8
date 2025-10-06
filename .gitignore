@@ -1,0 +1,16 @@
+.vscode/
+*.o
+*.ko
+*.obj
+*.lo
+*.a
+*.lib
+*.exe
+*.out
+program
+program.exe
+*.bin
+build/
+dist/
+Debug/
+Release/
